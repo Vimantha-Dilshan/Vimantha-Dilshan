@@ -1,6 +1,6 @@
 # Hi there, I'm Vimantha Dilshan 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" width="400" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vimantha-Dilshan&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" width="400" />
 
 ---
 
@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimantha-Dilshan&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimantha-Dilshan&layout=compact&theme=radical)
 
 ---
 
