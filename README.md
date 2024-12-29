@@ -1,71 +1,55 @@
 # Hi there, I'm Vimantha Dilshan 👋
 
-**`Software Engineer | Problem Solver | Tech Enthusiast`**
-
-As a software engineer with 4 years of experience, I specialize in delivering scalable and high-performance software solutions. With expertise across back-end, front-end, and mobile development, I aim to design, build, and maintain systems that enhance productivity and user experiences. Passionate about agile practices and continuous learning, I thrive in dynamic environments where innovation meets excellence.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" width="400" />
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-- **Languages**: PHP, Java, Python, JavaScript, C++, Dart  
-- **Frameworks**: Laravel, Lumen, React.js, Vue.js, Flutter  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **DevOps**: CI/CD Pipelines, Docker, Git, Linux/Ubuntu Administration  
-- **Development Practices**: SOLID Principles, Test-Driven Development (TDD), Agile SDLC  
-- **APIs**: RESTful, SOAP (JSON/XML)  
-- **Other Skills**: System Design, Security & Compliance (ISO27001), Data Structures & Algorithms  
+### 👨‍💻 About Me
+- 🌟 **Software Engineer** passionate about building scalable and high-performance solutions.
+- 🛠️ Specializing in **Full-Stack Development** and **Mobile Application Development**.
+- 📖 Lifelong learner, continuously exploring new technologies and design patterns.
+- 🌱 Currently advancing in **AI-driven solutions** and **IoT innovations**.
 
 ---
 
-### 🚀 Career Highlights
+### ⚙️ Skills & Technologies
 
-#### **Superloop** *(Software Engineer | 09/2023 – Present)*  
-- Developed and optimized large-scale systems with well-documented APIs.  
-- Enhanced system monitoring and alerting mechanisms, ensuring stability.  
-- Led technical designs and collaborated with stakeholders to meet business requirements.  
+#### **Programming Languages**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-#### **Arimac** *(Software Engineer I | 03/2022 – 09/2023)*  
-- Built high-quality applications using Laravel, Vue.js, and CI/CD tools.  
-- Designed efficient database schemas and scalable backend systems.  
-- Delivered well-tested features under tight schedules and optimized performance.  
+#### **Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Lumen](https://img.shields.io/badge/-Lumen-E74430?style=flat&logo=lumen&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
----
-
-### 🎓 Education
-
-**Bachelor of Science (BSc) (Hons) in Computer Science and Software Engineering**  
-*University of Bedfordshire (SLIIT)*  
-Second Class, Upper Division (2020-2023)  
-
-- Key Projects:  
-  - E-Learning Mobile Application  
-  - Web-Based Learning Management System (LMS)  
-  - POS System for Small Businesses  
-
----
-
-### 🎖️ Certifications
-
-- **Creating Secure PHP Code** *(Security Innovation)*  
-- **Cyber Security Awareness** *(Sonic Performance Support)*  
+#### **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-### 🌟 Career Interests
+### 📊 GitHub Statistics
 
-- AI-Driven Solutions  
-- IoT Innovations  
-- Virtual & Augmented Reality  
-- Mobile App Development  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
-### 📫 Let's Connect
-
-- **Email**: vimantha.0323@gmail.com  
-- **LinkedIn**: [linkedin.com/in/vimantha-dilshan](https://www.linkedin.com/in/vimantha-dilshan/)  
+### ☕ Let's Connect
+- 📫 **Email**: vimantha.0323@gmail.com  
+- 🌐 **LinkedIn**: [linkedin.com/in/vimantha-dilshan](https://www.linkedin.com/in/vimantha-dilshan/)  
+- 🖥️ **Portfolio**: Coming Soon!  
 
 ---
 
-*"Innovation and dedication drive me to deliver impactful solutions that shape the future."*
+*"Dedicated to crafting efficient solutions that make a difference in the world of software development."*
