@@ -1,4 +1,4 @@
-# Hi there, I'm Vimantha Dilshan 👋
+# Hi there, I'm Vimantha 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vimantha-Dilshan&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" width="400" />
 
@@ -29,8 +29,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![MDB](https://img.shields.io/badge/-Material_Design_Bootstrap-FF6F61?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MDB](https://img.shields.io/badge/-Material_Design_Bootstrap-FF6F61?style=flat&logo=bootstrap&logoColor=white)
 
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -55,14 +55,14 @@
 ### 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimantha-Dilshan&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimantha-Dilshan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimantha-Dilshan&layout=donut&theme=radical)
 
 ---
 
 ### ☕ Let's Connect
 - 📫 **Email**: vimantha.0323@gmail.com  
 - 🌐 **LinkedIn**: [linkedin.com/in/vimantha-dilshan](https://www.linkedin.com/in/vimantha-dilshan)  
-- 🖥️ **Portfolio**: Coming Soon!  
+- 🖥️ **Portfolio**: [vimantha.io](https://vimantha-dilshan.github.io/vimantha.github.io/)  
 
 ---
 
