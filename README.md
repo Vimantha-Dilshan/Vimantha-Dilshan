@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌟 **Software Engineer** passionate about building scalable and high-performance solutions.
+- 🌟 **Senior Software Engineer** passionate about building scalable and high-performance solutions.
 - 🛠️ Specializing in **Full-Stack Development** and **Mobile Application Development**.
 - 📖 Lifelong learner, continuously exploring new technologies and design patterns.
 - 🌱 Currently advancing in **AI-driven solutions** and **IoT innovations**.
