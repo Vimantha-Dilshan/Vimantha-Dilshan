@@ -2,9 +2,7 @@
 <h3 align="center">Senior Software Engineer · Cloud-Native Systems · Payments & Security · API Architecture</h3>
 
 <p align="center">
-Building secure, scalable digital platforms for startups and enterprises from carrier-grade microservices
-
-to PCI DSS-compliant payment systems trusted by millions of users.
+Building secure, scalable digital platforms for startups and enterprises from carrier-grade microservices to PCI DSS-compliant payment systems trusted by millions of users.
 </p>
 
 <p align="center">
